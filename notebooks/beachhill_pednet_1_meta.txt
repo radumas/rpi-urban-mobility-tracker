@@ -1,0 +1,4 @@
+Input: 99630_Eg_Beachhill_2020-10-18_1342.mp4
+nframes: 300
+detection probability threshold: 0.3
+model: pednet_20200517
